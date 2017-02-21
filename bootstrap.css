@@ -1,0 +1,67 @@
+img{
+	width:100%;
+    height:auto; 
+}
+
+
+.container{
+	padding: 20px;
+	margin: 20px;
+	background-color: #2593d2;
+	padding: 20px
+	margin:20px;
+}
+
+.darkBG{
+	background: #333;
+}
+
+.darkerBG{
+	background: #666;
+}
+
+.darkestBG{
+	background: #000;
+}
+
+h2{
+	text-align: center;
+	font-family: Impact;
+	color: #134968;
+	font-size: 35px;
+}
+
+h5{
+	padding-top: 20px;
+	padding-bottom: 20px; 
+	text-align: center;
+	font-family: Cursive;
+	color: white;
+}
+
+a{
+	color: white;
+}
+
+a:hover{
+	color: #e8814a;
+
+}
+
+p{
+	text-align: center;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+
+    /* Direction of the items, can be row or column */
+    flex-direction: column;
+}
+
+footer{
+	text-align: center;
+	font-family: Arial;
+
+}
